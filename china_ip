@@ -6289,9 +6289,7 @@ DOMAIN-SUFFIX,kikibt8.xyz,Reject
   IP CIDR,223.255.236.0/22,DIRECT
   IP CIDR,223.255.252.0/23,DIRECT
 
-DOMAIN-SUFFIX,ampproject.org,PROXY # Google AMP issue#237
-
-GEOIP,CN,DIRECT
+DOMAIN-SUFFIX,ampproject.org,PROXY # Google AMP issue#23
 
 FINAL,proxy
 
